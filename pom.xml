@@ -28,7 +28,7 @@ under the License.
   </parent>
 
   <artifactId>maven-deploy-plugin</artifactId>
-  <version>3.1.2-SNAPSHOT</version>
+  <version>3.1.2-hubspot-SNAPSHOT</version>
   <packaging>maven-plugin</packaging>
 
   <name>Apache Maven Deploy Plugin</name>
